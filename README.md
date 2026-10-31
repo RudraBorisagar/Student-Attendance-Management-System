@@ -123,3 +123,4 @@ The project uses **SQL Server LocalDB** with the following tables:
 ## 📄 License
 
 This project is created for educational purposes as a diploma final year project.
+
